@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "@bloomberg/record-tuple-polyfill": "^0.0.4"
+  }
+}
